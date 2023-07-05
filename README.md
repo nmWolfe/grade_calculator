@@ -1,0 +1,1 @@
+Greating a simple calculator, accepting basic input, with output. 
